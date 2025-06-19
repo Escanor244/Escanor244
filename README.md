@@ -1,31 +1,32 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20there!%20I'm%20DEEPAK%20👋&fontSize=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc,6a00f4&height=150&section=header&text=Hey%20there!%20I'm%20DEEPAK%20👋&fontSize=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0F8B8D&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer.;Cloud+Explorer.;AI+Enthusiast.;Always+Learning.;Building+cool+stuff." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=00C2CB&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+💻;AI+Explorer+🤖;Cloud+Engineer+☁️;Data+Science+Enthusiast📊;Always+learning+and+building+✨" />
 </p>
 
 ---
 
-### 🔭 About Me
+## 🙋‍♂️ About Me
 
-- 🧠 Passionate about AI, Data Science, and solving real-world problems with smart systems  
-- ☁️ Exploring the skies as a Cloud Enthusiast (AWS, DevOps, infra things)  
-- 🧑‍💻 Built a full-blown E‑Commerce Platform (client, merchant, admin) from the ground up  
-- 💻 Comfortable across the full stack — from backend logic to frontend polish  
-- 📊 Dabble in Data Analysis and love making sense of messy data  
-- 🛠️ Currently sharpening skills in Go, Next.js, Tailwind CSS, AWS, and AI frameworks  
-- ⚡ Fun fact: I debug faster with memes and caffeine ☕😂  
+👋 I'm Deepak — a developer who loves blending code, design, and data into real-world solutions.
+
+- 💻 Full-stack engineer (Go, Next.js, React, Node.js)
+- ☁️ Cloud practitioner (AWS, Docker, Linux)
+- 🤖 Exploring AI, LLMs, Data Science & Automation
+- 🛠️ Built a full E‑Commerce platform from scratch
+- 📊 Loves clean dashboards & messy datasets
+- ⚡ Powered by caffeine and curiosity
 
 ---
 
-### 💻 Tech Stack
+## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <!-- Core Languages -->
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
@@ -41,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
 
-  <!-- Backend & DevOps -->
+  <!-- Backend & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
@@ -55,24 +56,24 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| Outfit Fashions | Full e‑commerce app: client, admin, merchant | Go, React, Next.js, Tailwind, MySQL, Docker |
-| Auth API | Secure REST API with JWT | Go, MySQL |
-| CLI Tools | Productivity utilities & experiments | Bash, Python |
-| AWS Lab | Testing EC2, S3, IAM setups | AWS, Terraform |
+| 🚧 Project | 🧾 Description | 🧪 Stack |
+|-----------|----------------|----------|
+| 🛍️ Outfit Fashions | Full-stack e‑commerce platform with client, merchant & admin portals | Go, React, Tailwind, MySQL |
+| 🔐 Auth API | Secure REST API with JWT + MySQL | Go, Postman, SQL |
+| ⚙️ CLI Tools | Helpful command-line utilities & workflows | Bash, Python |
+| ☁️ AWS Lab | Infrastructure-as-code with real services | AWS EC2, IAM, Terraform |
 
 ---
 
-### 📫 Connect with Me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:deepak.edu.24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="linkedin.com/in/deepak-c-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/deepak-c-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a> -->
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> -->
 </p>
 
 ---
