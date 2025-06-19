@@ -1,77 +1,81 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc,6a00f4&height=180&section=header&text=Hey%20there!%20I'm%20DEEPAK%20👋&fontSize=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20there!%20I'm%20DEEPAK%20👋&fontSize=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=0FF0FC&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+💻;AI+Explorer+🤖;Cloud+Engineer+☁️;Data+Science+Enthusiast+📊;Always+Learning+and+Building+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0F8B8D&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer.;Cloud+Explorer.;AI+Enthusiast.;Always+Learning.;Building+cool+stuff." />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+### 🔭 About Me
 
-Hey! I'm Deepak — a developer who loves building clean UIs, automating things, and solving real-world problems with code.
-
-- 💻 Full-stack developer (Go, React, Next.js)
-- ☁️ Cloud enthusiast (AWS, Docker, Linux)
-- 🤖 Exploring AI, LLMs & Data Science
-- 🛠️ Built a full e-commerce platform from scratch
-- 📊 I enjoy crafting visual dashboards & wrangling data
-- ☕ Fueled by code, caffeine, and curiosity
+- 🧠 Passionate about AI, Data Science, and solving real-world problems with smart systems  
+- ☁️ Exploring the skies as a Cloud Enthusiast (AWS, DevOps, infra things)  
+- 🧑‍💻 Built a full-blown E‑Commerce Platform (client, merchant, admin) from the ground up  
+- 💻 Comfortable across the full stack — from backend logic to frontend polish  
+- 📊 Dabble in Data Analysis and love making sense of messy data  
+- 🛠️ Currently sharpening skills in Go, Next.js, Tailwind CSS, AWS, and AI frameworks  
+- ⚡ Fun fact: I debug faster with memes and caffeine ☕😂  
 
 ---
 
-## 💻 Tech Stack & Tools
+### 💻 Tech Stack
 
 <p align="center">
+  <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
+
+  <!-- Backend & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
+
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </p>
 
 ---
 
-## 🚀 Projects
+### 🚀 Featured Projects
 
-| 🛠️ Project         | 💡 Description                                  | ⚙️ Tech Stack                                  |
-|--------------------|--------------------------------------------------|------------------------------------------------|
-| Outfit Fashions    | Full e-commerce platform (client/admin/merchant) | Go, React, Tailwind, MySQL, Docker             |
-| Auth API           | REST API with secure login/JWT                  | Go, MySQL, Postman                             |
-| CLI Tools          | Handy automation tools for dev workflows        | Python, Bash                                   |
-| AWS Lab            | Infrastructure-as-code + services testbed       | AWS EC2, IAM, Terraform                        |
+| Project | Description | Tech |
+|--------|-------------|------|
+| Outfit Fashions | Full e‑commerce app: client, admin, merchant | Go, React, Next.js, Tailwind, MySQL, Docker |
+| Auth API | Secure REST API with JWT | Go, MySQL |
+| CLI Tools | Productivity utilities & experiments | Bash, Python |
+| AWS Lab | Testing EC2, S3, IAM setups | AWS, Terraform |
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="mailto:deepak.edu.24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/deepak-c-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a> -->
 </p>
 
 ---
-
-## 🎬 Dev Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
