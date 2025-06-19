@@ -76,12 +76,13 @@
 </p>
 
 ---
+## 🎬 Dev Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="320"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/XHAv3GzE5JnQ13Q3Wc/giphy.gif" width="320"/>
 </p>
 
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
